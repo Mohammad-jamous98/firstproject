@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٤ EET" name="Default suite" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="1866">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٤ EET" name="Default test" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="1866">
+      <class name="lession2.testclass">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:lession2.testclass@732f29af]" started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٤ EET" name="mysetup" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="Login()[pri:1, instance:lession2.testclass@732f29af]" started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" name="Login" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addrandomitem()[pri:2, instance:lession2.testclass@732f29af]" started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" name="addrandomitem" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addrandomitem -->
+        <test-method signature="TestList()[pri:3, instance:lession2.testclass@732f29af]" started-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" name="TestList" finished-at="٢٠٢٥-٠٤-٢٠T١٥:١٠:١٥ EET" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestList -->
+      </class> <!-- lession2.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
